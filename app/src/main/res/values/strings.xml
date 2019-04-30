@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SchoolMgmt</string>
+
+    <string name="welcome">Welcome to your school</string>
+</resources>
